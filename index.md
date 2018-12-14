@@ -4,11 +4,11 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Caroline and this is my fourth year studying the Nordic Languages at Helsinki University. (under construction)
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[GitHub](https://github.com/elgecaro)
 
 ## Contact
 
@@ -16,11 +16,13 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
-
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+Language technology:
+[KIK-405: Introduction to language-technology](https://courses.helsinki.fi/en/kik-405), fall 2018
+(under construction)
 
 ## Projects
+[cmdline-course](https://github.com/elgecaro/cmdline-course) 2018
+[otm-harjoitustyö](https://github.com/elgecaro/otm-harjoitustyo) 2018
 
 ## Misc. 
 
