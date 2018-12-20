@@ -11,6 +11,8 @@ I'm interested in linguistics (especially when it comes to the Swedish language)
 I have been studying *Computer Science* as one of my minors, and have also started taking some courses  in *Language Technology*.
 Therefore this website will be dedicated for Computer Science and Language Technology-related content.  
 
+[Here is a (fun) version of my CV](elgecaro.github.io/assets/documents/CV.pdf). I have left out the content that I don't whish to show to the whole world (or Internet).
+)
 
 ## Find me on
 
@@ -42,6 +44,3 @@ My email address is of the form first_name.last_name@helsinki.fi.
 [The Department of Computer Science](https://www.helsinki.fi/en/computer-science)  
 [RegexOne: Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)  
 [CodeMonkey](https://www.playcodemonkey.com/challenges/0)
-
-<embed src="https://elgecaro.github.io/CV.pdf" type="application/pdf" />
-
