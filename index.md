@@ -5,7 +5,9 @@ layout: default
 ## Introduction
 
 <img src="assets/images/caroline.jpg" alt="Photo" hspace="20" width="30%" align="right"/> 
-My name is Caroline and this is my fourth year studying the Nordic Languages at Helsinki University. 
+My name is Caroline and this is my fourth year studying the Nordic Languages at Helsinki University.
+I'm interested in linguistics (especially when it comes to the Swedish language), computer science, geography and also sustainable development.  
+
 I have been studying *Computer Science* as one of my minors, and have also started taking some courses  in *Language Technology*.
 Therefore this website will be dedicated for Computer Science and Language Technology-related content.  
 
@@ -21,7 +23,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 ## Courses I've Taken
 
 **Language technology**  
-[KIK-LG218: Command-line Course](https://courses.helsinki.fi/sv/KIK-LG218/126710126), fall 2018
+[KIK-LG218: Command-line Course](https://courses.helsinki.fi/sv/KIK-LG218/126710126), fall 2018  
 [KIK-405: Introduction to language-technology](https://courses.helsinki.fi/en/kik-405), fall 2018  
 
 **Computer Science** (in finnish)  
@@ -33,9 +35,13 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 
 ## Projects
-[cmdline-course](https://github.com/elgecaro/cmdline-course): A repository for the cmdline-course. 2018  
+[cmdline-course](https://github.com/elgecaro/cmdline-course): A repository for the cmdline-course. It contains a Makefile that for example makes and counts the  word frequency of the files. 2018  
 [otm-harjoitustyö](https://github.com/elgecaro/otm-harjoitustyo): A project regarding a exercise-program that I made for the course *Methods for Software Engineering*. 2018
 
 ## Misc. 
-[The Department of Computer Science](https://www.helsinki.fi/en/computer-science)
+[The Department of Computer Science](https://www.helsinki.fi/en/computer-science)  
+[RegexOne: Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)  
+[CodeMonkey](https://www.playcodemonkey.com/challenges/0)
+
+<embed src="https://elgecaro.github.io/CV.pdf" type="application/pdf" />
 
