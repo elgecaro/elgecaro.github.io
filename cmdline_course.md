@@ -16,7 +16,7 @@ be able to use google if (or when...) something goes wrong.
 
 Below is a short summary and reflections of the weekly contents and what I learned.  
 
-In summary the weekly contents are:
+**In summary the weekly contents are:**
 1. Introduction to Command-Line Environments
 2. Navigating a UNIX System 
 3. Corpus Processing
@@ -36,7 +36,7 @@ science, but I did still learn some new things even though I already knew the
 basic commands and was familiar to the environment. This week was still a good 
 introduction to the course and the command-line.
 
-###Example code from the week:
+### Example code from the week:
 
 ```
 mkdir newDirectory
