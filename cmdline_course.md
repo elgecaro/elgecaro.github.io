@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Introduction -  Command-line Course
+# Command-line course
+## Introduction
 The **Command-line Course** is a course focused on the command-line, which is a 
 user interface navigated by textual commands, and how you can use it as a 
 tool for linguistics.  
@@ -107,7 +108,7 @@ This is a part of a script, and it compares the diff-output (*diff --brief*
 produces output when the files differ) from two files.
 
 Here is also a picture of a larger script that was made for one of the quizzes:
-<img src="assets/images/script.jpg" alt="Photo" hspace="20" width="60%" align="left"/>
+<img src="assets/images/script.jpg" alt="Photo" hspace="20" width="85%"/>
 
 
 ## Week 5: Installing and Running Programs
