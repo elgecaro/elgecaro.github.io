@@ -12,9 +12,18 @@ During the course we have been introduced to the command-line and its different
 commands and properties, for example regarding using and operating the Unix 
 command-line, using the command-line for linguistics (regular expressions, corpora etc), 
 running and installing programs and using Github. It's also important to 
-be able to use google when (not if) something goes wrong. 
+be able to use google if (or when...) something goes wrong. 
 
-Below is a short summary and reflections of the weekly contents and what I learned
+Below is a short summary and reflections of the weekly contents and what I learned.  
+
+In summary the weekly contents are:
+1. Introduction to Command-Line Environments
+2. Navigating a UNIX System 
+3. Corpus Processing
+4. Scripting and UNIX Configuration Files
+5. Installing and Running Programs
+6. Version Control
+7. Final Assignment - Building a Webpage using Github
 
 ## Week 1: Introduction to Command-Line Environments  
 The first week of the course contained an introduction to the command-line 
@@ -83,7 +92,7 @@ them.
 cat life_of_bee.sent | grep -E "\bhoney\b"  | wc -l
 ```
 This snippet of code will show the word-count (*wc -l*) from the file 
-(*life_of_bee.sent*) that contains the word form *honey*.
+(*life_of_bee.sent*) that contains the word form *honey*, with the help of grep.
 
 
 ## Week 4: Scripting and UNIX Configuration Files
@@ -108,6 +117,7 @@ This is a part of a script, and it compares the diff-output (*diff --brief*
 produces output when the files differ) from two files.
 
 Here is also a picture of a larger script that was made for one of the quizzes:
+
 <img src="assets/images/script.jpg" alt="Photo" hspace="20" width="85%"/>
 
 
@@ -142,26 +152,28 @@ project etc.
 
 ### Example code - useful git-commands:
 
-Command | Description
-------- | -------------
-git add file | Adds the file 
-git add -A | Adds all the files that are untracked or new
+*Command*               | *Description*
+------------------------| -------------
+git add file            | Adds the file 
+git add -A              | Adds all the files that are untracked or new
 git commit -m "Comment" | Commits the changes to git with a message
-git push | Pushes the changes to the remote repository
-git branch | Shows which branch you are working on
-git branch new_branch | Creates a new branch
+git push                | Pushes the changes to the remote repository
+git branch              | Shows which branch you are working on
+git branch new_branch   | Creates a new branch
 
-## Week 7: Final Assignment - Building a Webpages using Github
+## Week 7: Final Assignment - Building a Webpage using Github
 The Final Assignment of this course was to create and build an  own website  with
 different contents. A big part of the assignment was about Jekyll and Github Pages.  
 
 I have been using Github before, but Jekyll was a new experience for me. I also 
 really liked the idea that you can use a specific layout that you could also 
-edit.
+edit. Overall I liked the final assigment and think it is very useful to know 
+these kinds of things :)
 
 ### Example code:        
 
 ```
 git clone https://github.com/elgecaro/elgecaro.github.io.git
 ```
-This command clones my local repository.
+This command clones my github repository, and it will then work as a local 
+repository.
